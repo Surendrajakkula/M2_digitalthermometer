@@ -1,1 +1,4 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf8dd8c25c1547dd9d45a2ed7f3dbe5f)](https://app.codacy.com/gh/Surendrajakkula/M2_embeddedtrack?utm_source=github.com&utm_medium=referral&utm_content=Surendrajakkula/M2_embeddedtrack&utm_campaign=Badge_Grade_Settings)
+
 A digital thermometer is used to verify a smart temperature transmitter under flowing conditions and a successful calibration of the smart temperature transmitter. Portable electronic thermometers (PETs) are designed to measure temperature in a RTD-type thermowell using a thermistor or RTD probe. The thermometer should be approved for use in hazardous locations, Class 1, Groups C and D. The thermometer should be furnished with suitably coated probe cables at least 6 inches long. The digital display should be easily read in direct sunlight and equipped with a backlight (optional) for night operations. The display shall have a resolution to at least XX.XX°F.
