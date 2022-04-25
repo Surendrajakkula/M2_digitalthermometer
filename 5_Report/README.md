@@ -14,15 +14,15 @@ In this project we will be using hardware components such as : ATMega328P microc
 ADVANTAGES
 
 
-The advantages of digital thermometers are that they are inexpensive, easy to read, require very little maintenance and give an accurate reading. 
+1.The advantages of digital thermometers are that they are inexpensive, easy to read, require very little maintenance and give an accurate reading. 
 
 
 Threats
 
-Digital thermometers have the disadvantage of having dead batteries.
+1.Digital thermometers have the disadvantage of having dead batteries.
 
 
-Submerging a conventional thermometer in warm, soapy water is simple, but doing it with a digital thermometer is more complicated.
+2.Submerging a conventional thermometer in warm, soapy water is simple, but doing it with a digital thermometer is more complicated.
 
 
 BLOCK DIAGRAM OD DIGITAL THERMOMETER
