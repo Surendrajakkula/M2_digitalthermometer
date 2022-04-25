@@ -11,17 +11,56 @@ RESEARCH
 The source code is to be compiled in VS CODE with AVR compiler. This Digital thermometer is coded in EMBEDDED C is not designed to run on the Turbo C versions.
 
 
-HIGH LEVEL AND LOW LEVEL REQUIREMENTS
+4'W (Who,What,when,where )And 1'H
+
+WHO
+
+Digital thermometer is mostly used by doctors to get the body temperature of patients
+
+
+WHAT
+
+High reliability
+
+
+WHEN
+
+It can be used any time mostly
+
+
+WHERE
+
+Most probably in hospitals
+
+
+HOW
+Easy to use
 
 
 
-![high level and low level](https://user-images.githubusercontent.com/70704291/164936571-dae5b526-ab43-4ea7-a7c0-21119aec11c7.png)
-
-4'W AND 1'H
 
 
+HIGH LEVEL REQUIREMENTS
 
-![4w h](https://user-images.githubusercontent.com/70704291/164936650-a9093b15-88c4-4fb6-a777-9444ca6064e5.png)
+
+| ID | Description | Category |
+| --- | --- | --- | 
+| HLR01 | User need to LM35 to test temperature | Technical |
+| HLR02 | User need to ATMega328P for execution | Technical |
+| HLR03 | AVR-ISP PROGRAMMER |Technical|
+| HLR04 | ATMEGA328 MICROCONTROLLER |Hardware|
+
+
+
+LOW LEVEL REQUIREMENTS
+
+
+| ID | Description | Category |
+| --- | --- | --- | 
+| LLR01 | Power Supply(5V) | Hardware |
+| LLR02 | JHD_162ALCD(16x2LCD) | Hardware |
+| LLR03 |LM35 sensor| Hardware |
+| LLR04 | 100uf capacitor,100nf capacitor|Hardware|
 
 
 
