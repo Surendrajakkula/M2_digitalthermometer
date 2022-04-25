@@ -32,5 +32,4 @@ The advantages of digital thermometers are that they are inexpensive, easy to re
 
 DISADVANTAGES
 
-
-The advantages of digital thermometers are that they are inexpensive, easy to read, require very little maintenance and give an accurate reading. 
+The disadvantage is that they get damaged easily if dropped and the battery powering them eventually runs out.
