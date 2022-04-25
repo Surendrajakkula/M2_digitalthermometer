@@ -22,3 +22,15 @@ HIGH LEVEL AND LOW LEVEL REQUIREMENTS
 
 
 ![4w h](https://user-images.githubusercontent.com/70704291/164936650-a9093b15-88c4-4fb6-a777-9444ca6064e5.png)
+
+
+
+ADVANTAGES
+
+The advantages of digital thermometers are that they are inexpensive, easy to read, require very little maintenance and give an accurate reading. 
+
+
+DISADVANTAGES
+
+
+The advantages of digital thermometers are that they are inexpensive, easy to read, require very little maintenance and give an accurate reading. 
