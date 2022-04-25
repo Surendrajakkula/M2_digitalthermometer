@@ -58,7 +58,7 @@ LOW LEVEL REQUIREMENTS
 | ID | Description | Category |
 | --- | --- | --- | 
 | LLR01 | Power Supply(5V) | Hardware |
-| LLR02 | JHD_162ALCD(16x2LCD) | Hardware |
+| LLR02 | HD44780-14 LCD | Hardware |
 | LLR03 |LM35 sensor| Hardware |
 | LLR04 | 100uf capacitor,100nf capacitor|Hardware|
 
