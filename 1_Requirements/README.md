@@ -2,6 +2,9 @@ INTRODUCTION
 
 
 Digital thermometers are temperature-sensing instruments that are easily portable, have permanent probes, and a convenient digital display. The way a digital thermometer works depends upon its type of sensor. Sensor types include resistance temperature detector (RTD), thermocouple and thermistor.
+
+
+
 RESEARCH
 
 
